@@ -1,3 +1,7 @@
+/*
+@author NerdItYourself
+@version 1.0, 2/3/2016
+*/
 
 // Import library used for Kinect
 import SimpleOpenNI.*;
@@ -113,6 +117,8 @@ void curveRight(float x, float y){
   // Note: this is a line! Change arguments of bezier function to change curve!
   // bezier(width/2, height/2 , x, y, x, y, width/2, height/2);
 
+  // Try to adjust curves as you want!
+  
   endShape();
 }
 
